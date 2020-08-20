@@ -1,3 +1,7 @@
 <?php //%255B%255BC%255DSymfony%255CComponent%255CForm%255CForm%2524transformationFailure%255D%255B1%255D
 
+<<<<<<< HEAD
 return [PHP_INT_MAX, 1597916010];
+=======
+return [PHP_INT_MAX, 1597914345];
+>>>>>>> 9164aa9ab8e45a9d3f1a33efc4fe5e45bb216097

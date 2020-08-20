@@ -6,5 +6,8 @@
 [2020-08-20T11:12:44.691778+02:00] request.INFO: Matched route "root". {"route":"root","route_parameters":{"_route":"root","_controller":"App\\Controller\\RootController::index"},"request_uri":"http://192.168.10.168/mon_projet_test/public/index.php/","method":"GET"} []
 [2020-08-20T11:12:44.701978+02:00] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
 [2020-08-20T11:12:44.748768+02:00] request.INFO: Matched route "_wdt". {"route":"_wdt","route_parameters":{"_route":"_wdt","_controller":"web_profiler.controller.profiler::toolbarAction","token":"bcff51"},"request_uri":"http://192.168.10.168/mon_projet_test/public/index.php/_wdt/bcff51","method":"GET"} []
+<<<<<<< HEAD
 [2020-08-20T11:33:30.036223+02:00] php.DEBUG: Warning: include(/var/www/html/mon_projet_test/var/cache/de_/App_KernelDevDebugContainer.php): failed to open stream: No such file or directory {"exception":{"Symfony\\Component\\ErrorHandler\\Exception\\SilencedErrorContext":{"severity":2,"file":"/var/www/html/mon_projet_test/vendor/symfony/http-kernel/Kernel.php","line":461,"trace":[{"file":"/var/www/html/mon_projet_test/vendor/symfony/http-kernel/Kernel.php","line":461,"function":"include"}],"count":1}}} []
 [2020-08-20T11:33:30.038204+02:00] php.DEBUG: Warning: include(): Failed opening '/var/www/html/mon_projet_test/var/cache/de_/App_KernelDevDebugContainer.php' for inclusion (include_path='.:/usr/share/php') [] []
+=======
+>>>>>>> 9164aa9ab8e45a9d3f1a33efc4fe5e45bb216097
