@@ -15,7 +15,7 @@ class RootController extends AbstractController
 
 
         return $this->render('root/index.html.twig', [
-            'controller_name' => ' Maxime',
+            'controller_name' => ' Maxime et Abdoul',
         ]);
 
     }
